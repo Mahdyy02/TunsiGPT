@@ -38,11 +38,6 @@ Below is an excerpt taken from `generated_text.txt` produced by the trained weig
 
 This extract demonstrates the model producing fluent, colloquial Arabic (Tunisian dialect / Maghrebi-style phrasing) with narrative elements.
 
-### Notes and next steps
-
-- If you want reproducible runs, add a `requirements.txt` or `pyproject.toml` with pinned dependency versions.
-- Consider adding a short `README` section describing how `gpt.py` and `inference.py` accept arguments (checkpoint path, temperature, length, seed).
-- Add a license if you plan to share the project publicly.
 
 ---
 
